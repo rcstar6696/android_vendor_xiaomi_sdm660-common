@@ -577,7 +577,5 @@ PRODUCT_PACKAGES += \
     imssettings \
     PowerOffAlarm \
     TimeService \
-    QPerformance \
-    UxPerformance \
     WfdCommon \
     chargeonlymode
